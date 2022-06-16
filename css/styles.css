@@ -776,7 +776,7 @@ footer {
   border-color: transparent;
   background-color: var(--accent-color);
 }
-.ckeckbox:focus + .agree-icon {
+.checkbox:focus + .agree-icon {
   border-color: var(--accent-color);
 }
 .form-modal .form-button {
